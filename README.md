@@ -12,7 +12,7 @@
 
 ### Operating Systems:
 | Windows | Ubuntu |
-|----------|----------|----------|
+|----------|----------|
 | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows8/windows8-original.svg" title="Windows"  alt="Windows" width="55" height="55"/>  | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="55" height="55"/> |
 
 
